@@ -31,18 +31,21 @@
   align-items: center;
   color: rgb(255, 255, 255);
 }
+
 .nav-containt h2 {
   width: 50%;
   padding-left: 20px;
   font-size: 60px;
-  position: relative;
-  overflow: hidden;
 }
 .nav-containt h2 em {
   color: red;
 }
 .nav-containt h2 span:hover {
   cursor: pointer;
+}
+.nav-containt h2 .Word1:hover {
+  transform: rotate(360deg);
+  transition: all 0.4s ease-in;
 }
 
 .nav-containt ul {
@@ -68,4 +71,8 @@
   position: absolute;
   bottom: 0;
   left: 0;
+}
+
+.sign_btn{
+  
 }

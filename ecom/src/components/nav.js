@@ -13,11 +13,13 @@ const Nav = () => {
         </svg>
       </div>
       <div className="nav-containt">
-            <h2> <span> <em>R</em>eact <em>Ec</em>om</span></h2>
+            <h2> <span className="Word1"> <em>R</em>eact</span>
+            <span className="Word2"> <em>Ec</em>om</span></h2>
             <ul>
                 <li>Home</li>
                 <li>About</li>
                 <li>Contact</li>
+                <li><button type="submit" className="sign_btn">Sign-In</button></li>
             </ul>
       </div>
         
