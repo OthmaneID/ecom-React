@@ -13,7 +13,7 @@ const Nav = () => {
         </svg>
       </div>
       <div className="nav-containt">
-            <h2> <span>React Ecom</span></h2>
+            <h2> <span> <em>R</em>eact <em>Ec</em>om</span></h2>
             <ul>
                 <li>Home</li>
                 <li>About</li>
