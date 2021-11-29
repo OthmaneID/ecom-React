@@ -65,14 +65,3 @@
   color: white;
   text-decoration: underline;
 }
-
-#tsparticles {
-  height: calc(100vh-120px);
-  position: absolute;
-  bottom: 0;
-  left: 0;
-}
-
-.sign_btn{
-  
-}
