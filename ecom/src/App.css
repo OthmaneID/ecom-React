@@ -36,7 +36,6 @@
   padding-left: 20px;
 }
 .nav-containt h2 span:hover {
-  color: rgb(148, 1, 1);
   cursor: pointer;
   text-decoration: underline;
 }
